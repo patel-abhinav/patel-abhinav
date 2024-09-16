@@ -19,7 +19,7 @@ I’m committed to continuous learning 📚 and always exploring new technologie
 
 - any collaboration work,
 - data analyst projects(development or research),
-- open to job, internships and
+- open to jobs, internships and
 - available for guidance and feedback from experienced professionals to enhance technical and analytical capabilities.
 
 ## Skills:
