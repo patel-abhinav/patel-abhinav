@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Abhinav Patel] 👋
 
-🔭I am currently pursuing my Post-Graduation in Data Science(Data Analyst) from [International Institute of Information Technology(IIIT)](https://www.iiitb.ac.in/), Bangalore🎓. Apart from that, I am a seasonal Data Analyst💻 who loves writing articles📝 (on Data Science, Productivity and Dashboard Tips) and contributing to open source🌍.
+🔭I am currently pursuing my Post-Graduation in Data Science(Data Analyst) from [International Institute of Information Technology(IIIT)](https://www.iiitb.ac.in/), Bangalore🎓. Apart from that, I am a seasonal Data Analyst💻 who loves writing articles📝 (on Data Science, Productivity and Dashboard Tips) and contributing to open source.🌍
 
 I’m committed to continuous learning 📚 and always exploring new technologies and methodologies 💡 to stay up-to-date with the latest industry trends 📊, aiming to leverage data in innovative ways 🔍 to make a real impact on business outcomes 🚀.
 
